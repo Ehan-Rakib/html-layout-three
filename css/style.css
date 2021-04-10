@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: monospace, sans-serif;
+    text-align: center;
+
+
+}
+
+.header {
+    overflow: hidden;
+}
+
+.header_logo {
+    width: 20%;
+    height: 80px;
+    background-color: rgb(30, 127, 184);
+    float: left;
+}
+
+.header_banner {
+    width: 80%;
+    height: 80px;
+    background-color: rgb(80, 169, 175);
+    float: right;
+}
+
+.header_bar {
+    background-color: rgb(175, 14, 154);
+    height: 40px;
+}
+
+
+.content_head {
+    overflow: hidden;
+    height: 500px;
+}
+
+.left_blocks {
+    width: 20%;
+    height: 500px;
+    background-color: rgba(14, 165, 0, 0.734);
+    float: left;
+}
+
+.center_blocks {
+    width: 60%;
+    height: 500px;
+    background-color: rgb(165, 32, 54);
+    float: left;
+}
+
+
+.center_first_blocks {
+    height: 150px;
+    background-color: rgb(255, 230, 0);
+
+}
+
+.center_second_blocks {
+    height: 200px;
+    background-color: rgb(0, 235, 117);
+
+}
+
+.center_second_blocks_first_item {
+    width: 50%;
+    height: 200px;
+    background-color: rgb(16, 56, 117);
+    float: left;
+}
+
+.center_second_blocks_second_item {
+    width: 50%;
+    height: 200px;
+    background-color: rgb(156, 18, 18);
+    float: right;
+}
+
+.center_third_blocks {
+    height: 150px;
+    background-color: rgb(0, 73, 232);
+}
+
+.right_blocks {
+    width: 20%;
+    height: 500px;
+    background-color: rgb(24, 144, 192);
+    float: right;
+}
+
+.footer {
+    height: 80px;
+    background-color: aqua;
+}
